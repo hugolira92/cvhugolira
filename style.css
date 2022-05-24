@@ -36,6 +36,7 @@ p {
 }
 
 #intro {
+    margin-left: 5px;
     color: black;
     text-align: justify;
 }
