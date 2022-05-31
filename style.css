@@ -18,7 +18,7 @@
 }
 
 /*Cor dos textos barra lateral*/
-.título, p, h1 {
+.título, .texto-lateral, h1 {
     color: rgb(226, 224, 224);
     margin-left: 10px;
     padding: 5px;
@@ -31,13 +31,35 @@
     padding-left: 10px;
 }
 
-p {
+.texto-lateral {
     font-size: 80%;
 }
 
 #intro {
-    margin-left: 5px;
+    margin-left: 10px;
     margin-right: 5px;
     color: black;
     text-align: justify;
+}
+
+h2 {
+    color: rgb(0, 49, 93);
+    margin-left: 10px;
+}
+
+table, tr, td {
+    border: 1px solid red;
+}
+
+.período {
+    color: grey;
+    font-size: 80%;
+}
+
+.cargo{
+    color: rgb(36, 36, 35);
+}
+
+.descrição {
+    color: rgb(49, 49, 49);
 }
