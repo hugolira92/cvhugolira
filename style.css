@@ -102,3 +102,12 @@ a:active{
     color: grey;
     text-decoration: none;
 }
+
+
+/*-----STAR RATING-----*/
+.rating {
+    width: 230px;
+}
+.stars {
+    color: rgb(226, 224, 224);
+}
