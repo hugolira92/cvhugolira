@@ -12,6 +12,7 @@
 }
 
 #center {
+    padding-top: 15px;
     width: 670px;
     position: absolute;
     left: 250px;
